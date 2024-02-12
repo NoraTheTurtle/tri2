@@ -1,6 +1,6 @@
 ---
 layout: scheduleStudent
-title: Tri 1
+title: Tri 2
 units: "1"
-course: tri2
+course: tri1
 ---
