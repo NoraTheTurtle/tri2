@@ -1,6 +1,0 @@
----
-layout: scheduleStudent
-title: Tri 1
-units: "1"
-course: tri2
----
